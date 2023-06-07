@@ -27,7 +27,7 @@ Baza ta zawiera w sobie rejestr psów od 2015 do 2023 roku (ostatni update bazy 
 
 ```{r, include = FALSE}
 #Wczytanie pliku źródłowego
-setwd("/Volumes/Dysk D/Studia/Projekt")
+setwd("/Volumes/Dysk D/Studia/GitHub/ZH_dog_population_analysis")
 Dogs_original <-read_csv("KUL100OD1001.csv")
 
 #Stworzenie nowej bazy danych, zbudowanej na pliku źródłowym, pod kątem dalszej pracy na danych
