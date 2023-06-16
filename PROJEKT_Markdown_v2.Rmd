@@ -23,7 +23,7 @@ Do poniższej analizy wykorzystana została baza danych udostępniona publicznie
 
 https://data.stadt-zuerich.ch/dataset/sid_stapo_hundebestand_od1001 
 
-Baza ta zawiera w sobie rejestr psów od 2015 do 2023 roku (ostatni update bazy nastąpił 16.05.2023). Można znaleźć w niej zarówno informacje na temat właścicieli, jak i charakterystykę posiadanych psów (np. rasa, wiek psa, kolor psa, płeć), co widać w poniższych tabelach podsumowujących:
+Baza ta zawiera w sobie rejestr psów od 2015 do 2023 roku (ostatni update bazy nastąpił 16.05.2023). Można znaleźć w niej zarówno informacje na temat właścicieli, jak i charakterystykę posiadanych psów (np. rasa, wiek psa, kolor psa, płeć).
 
 ```{r, include = FALSE}
 #Wczytanie pliku źródłowego
